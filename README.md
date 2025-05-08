@@ -109,5 +109,4 @@ Serve as a bridge between requirement analysis and system design
 * Improves documentation and planning for developers and testers
 
 ### Use Case Diagram
-
-![alx-booking-uc.png](https://github.com/user-attachments/assets/e2b0a40a-858d-4f22-9c9a-aa63e914704a)
+![alx-booking-uc](/alx-booking-uc.png)
