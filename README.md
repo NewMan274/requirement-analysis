@@ -110,3 +110,55 @@ Serve as a bridge between requirement analysis and system design
 
 ### Use Case Diagram
 ![alx-booking-uc](/alx-booking-uc.png)
+
+
+## ✅ Acceptance Criteria
+### What is Acceptance Criteria?
+Acceptance Criteria are the conditions that a software product must meet in order to be considered complete and ready for release. They are a set of specific, clear, and testable requirements that define the expected behavior of a feature or user story. Acceptance Criteria are typically written from the user's perspective and are used to guide the development process, ensuring that the system functions as intended.
+
+### Why is Acceptance Criteria Important in Requirement Analysis?
+Acceptance Criteria are a critical part of Requirement Analysis for several reasons:
+
+* ### Ensures Alignment with Stakeholder Expectations:
+  By defining clear criteria, it becomes easier to verify that the feature meets the needs and expectations of the users and stakeholders.
+
+* ### Guides the Development Process:
+  Acceptance Criteria help developers understand what needs to be done and provide them with a clear benchmark for success.
+
+* ### Improves Testing:
+  Clear acceptance criteria provide testers with a set of conditions to check against during the testing phase. This ensures that the feature is thoroughly tested and works   as expected.
+
+* ### Prevents Scope Creep:
+  By defining exactly what is included in a feature, acceptance criteria help prevent unnecessary features from being added, keeping the development focused and on track.
+
+### Example of Acceptance Criteria for the Checkout Feature in the Booking Management System:
+  Feature: Checkout Process for Hotel Booking
+
+### Acceptance Criteria:
+
+* ### User Authentication:
+  The user must be logged in before proceeding with the checkout.
+  If not logged in, the system will prompt the user to log in or register.
+
+* ### Room Selection:
+  The user can view available rooms for the selected dates.
+  The user can select a room type and quantity.
+
+* ### Pricing Calculation:
+  The system must display the total cost of the booking, including any applicable taxes, fees, and discounts.
+  The user must be able to see a breakdown of the cost (e.g., price per night, number of nights, total amount).
+
+* ### Payment Integration:
+  The user must be able to enter payment details securely through an integrated payment gateway (e.g., Stripe, PayPal).
+  The payment system must handle multiple payment methods, including credit/debit cards and online wallets.
+
+* ### Confirmation and Receipt:
+  After successful payment, the system must provide a booking confirmation with booking details.
+  The user should receive an email with booking confirmation and a receipt containing booking reference, hotel information, and payment details.
+
+* ### Booking History:
+  The booking must appear in the user's booking history, accessible through their account profile.
+  
+* ### Error Handling:
+  If the payment fails, the user must receive an error message explaining the issue and be prompted to try again.
+  If a room is no longer available during checkout, the user must be informed and given the option to select a different room or date.
