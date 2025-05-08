@@ -7,9 +7,6 @@ Requirement Analysis is the process of understanding what a software system shou
 Requirement Analysis is a critical first step in the SDLC because it sets the foundation for all future development. A well-analyzed requirement:
 
 * Helps developers build the right product
-
 * Reduces misunderstandings and rework
-
 * Saves time and cost in later stages
-
 * Ensures the final product aligns with user and stakeholders expectations
