@@ -86,3 +86,24 @@ Examples for a Hotel Booking Management System:
 
 * ### Availability:
   Ensure the system is available 99.9% of the time, with minimal downtime.
+
+
+## 🎯 Use Case Diagrams
+
+### What is a Use Case Diagram?
+A Use Case Diagram is a visual representation of the interactions between users (called actors) and the system. It shows the various actions (called use cases) that users can perform within the system. These diagrams help to:
+
+Clarify system functionality from the user's perspective
+
+Identify different user roles and what each role can do
+
+Serve as a bridge between requirement analysis and system design
+
+### 🧾 Benefits of Use Case Diagrams
+* Simplifies communication between technical and non-technical stakeholders
+
+* Helps identify system scope and boundaries
+
+* Ensures clarity in understanding who does what in the system
+
+* Improves documentation and planning for developers and testers
