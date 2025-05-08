@@ -107,3 +107,6 @@ Serve as a bridge between requirement analysis and system design
 * Ensures clarity in understanding who does what in the system
 
 * Improves documentation and planning for developers and testers
+
+![Uploading alx-booking-uc.png…]()
+
