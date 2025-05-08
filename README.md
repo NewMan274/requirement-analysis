@@ -42,3 +42,47 @@ Requirement Analysis involves several key activities that help ensure the softwa
 
 * ### ✅ Requirement Validation
   Reviewing and confirming that all documented requirements are correct, complete, realistic, and aligned with business goals. This is typically done with stakeholders         before development begins.
+
+
+## 🧾 Types of Requirements
+Understanding the different types of requirements is crucial for the successful development of a hotel booking management system. Requirements are generally categorized into two main types: Functional and Non-functional.
+
+### 🔧 Functional Requirements
+Functional requirements define the specific behavior or functions of the system. They describe what the system should do.
+
+Examples for a Hotel Booking Management System:
+
+* ### User Registration and Authentication:
+  Allow users to create accounts and log in securely.
+
+* ### Search Functionality:
+  Enable users to search for hotels based on location, availability, and price range.
+
+* ### Booking Management:
+  Allow users to book rooms, view booking history, and cancel reservations.
+
+* ### Payment Processing:
+  Integrate with payment gateways to handle transactions securely.
+
+* ### Admin Dashboard:
+  Provide administrators with tools to manage listings, view bookings, and generate reports.
+
+### ⚙️ Non-functional Requirements
+Non-functional requirements specify the quality attributes of the system. They define how the system performs a function.
+
+Examples for a Hotel Booking Management System:
+
+* ### Performance:
+  The system should handle up to 10,000 concurrent users without performance degradation.
+
+* ### Scalability:
+  The architecture should support scaling to accommodate increasing numbers of users and data.
+
+* ### Security:
+  Implement SSL encryption for data transmission and store passwords using hashing algorithms.
+
+* ### Usability:
+  Design an intuitive user interface that is easy to navigate for both customers and administrators.
+
+* ### Availability:
+  Ensure the system is available 99.9% of the time, with minimal downtime.
