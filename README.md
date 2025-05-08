@@ -108,5 +108,4 @@ Serve as a bridge between requirement analysis and system design
 
 * Improves documentation and planning for developers and testers
 
-alx-booking-uc.png
-![alx-booking-uc.png](https://github.com/user-attachments/assets/66b01252-3ee5-43de-a65e-dffa8a75dea1)
+![alx-booking-uc](https://github.com/user-attachments/assets/e2b0a40a-858d-4f22-9c9a-aa63e914704a)
