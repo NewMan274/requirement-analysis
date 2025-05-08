@@ -1,4 +1,5 @@
 # Requirement Analysis in Software Development.
+
 This is a requirement analysis for a booking management software developement. It is done to have an efficient and actionable blueprint for the software and safe resuourses in the process.
 
 ## What is Requirement Analysis?
@@ -23,3 +24,21 @@ Requirement Analysis plays a foundational role in the Software Development Life 
 
 * ### 🎯 Guides the Development Process
   Requirements serve as a roadmap for developers, testers, and project managers. They help in planning, designing, and building the software in a structured and goal-          oriented manner.
+
+## 🧩 Key Activities in Requirement Analysis
+Requirement Analysis involves several key activities that help ensure the software solution is well-defined, understood, and aligned with stakeholder expectations. Here are the five core activities:
+
+* ### 🔍 Requirement Gathering
+  Collecting raw information and needs from stakeholders, end-users, and domain experts. This forms the initial input for further analysis.
+
+* ### 🗣️ Requirement Elicitation
+  Actively engaging with stakeholders through interviews, questionnaires, brainstorming, or observation to dig deeper and uncover hidden or implicit needs.
+
+* ### 📝 Requirement Documentation
+  Clearly writing down all gathered and elicited requirements in a structured format (like user stories or use cases) to ensure they're understandable and trackable.
+
+* ### 📊 Requirement Analysis and Modeling
+  Examining and organizing the documented requirements to identify conflicts, overlaps, and gaps. Visual models like diagrams may be used to simplify complex requirements.
+
+* ### ✅ Requirement Validation
+  Reviewing and confirming that all documented requirements are correct, complete, realistic, and aligned with business goals. This is typically done with stakeholders         before development begins.
