@@ -9,7 +9,7 @@ Requirement Analysis is a critical first step in the SDLC because it sets the fo
 * Helps developers build the right product
 * Reduces misunderstandings and rework
 * Saves time and cost in later stages
-* Ensures the final product aligns with user and stakeholders expectations
+* Ensures the final product aligns with stakeholders expectations
 
 ## ❓ Why is Requirement Analysis Important?
 Requirement Analysis plays a foundational role in the Software Development Life Cycle (SDLC). It ensures that the development process starts on the right foot and leads to a product that meets real user needs. Here are three key reasons why it’s critical:
